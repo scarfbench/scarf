@@ -1,5 +1,9 @@
 ![scarfbench-raised](https://github.com/user-attachments/assets/b36885c0-2843-4c23-8550-01115537666d)
 
+[![Crates.io](https://img.shields.io/crates/v/scarfbench-cli?style=for-the-badge)](https://crates.io/crates/scarfbench-cli)
+[![License](https://img.shields.io/crates/l/scarfbench-cli?style=for-the-badge)](https://crates.io/crates/scarfbench-cli)
+[![npm](https://img.shields.io/npm/v/@scarfbench/scarfbench-cli?color=crimson&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@scarfbench/scarfbench-cli)
+
 ScarfBench CLI: The command line helper tool for scarf bench
 
 This is a companion CLI tool for the [SCARF Benchmark](https://github.com/scarfbench/benchmark). It provides a commandline interface to list and test benchmarks, run agents, submit solutions, view and explore leaderboard among other useful tasks.
